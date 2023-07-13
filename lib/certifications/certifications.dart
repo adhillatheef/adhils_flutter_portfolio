@@ -125,10 +125,10 @@ class CertificationItem {
 }
 
 final certificationsItems = [
-  CertificationItem(name: 'The Fundamentals of Digital Marketing', institution: "Google Digital Unlocked", credentials: "686 T2K 4TZ", dateOfIssue: "Jul 26, 2020", pdfPath: 'digitalunlocked_certificate_page-0001.jpg',),
-  CertificationItem(name: 'The Web Developer Bootcamp', institution: "Udemy", credentials: "ude.my/UC-decbd38e-b258-41f9-b656-628c3290a8ae/", dateOfIssue: "Sep 20, 2020", pdfPath: 'the_web_developer_bootcamp.jpg'),
-  CertificationItem(name: 'Python Fundamentals', institution: "Microsoft Technology Associate", credentials: "CT0001653", dateOfIssue: "Jun 06, 2021", pdfPath: 'mta_python_fundamentals.png'),
-  CertificationItem(name: 'The Complete 2021 Flutter Development Bootcamp with Dart', institution: "Udemy", credentials: "ude.my/UC-09c44ec9-6b6f-4ab5-a4dd-97bcd014fb6b/", dateOfIssue: "Aug 12, 2022", pdfPath: 'the_complete_2021_development_bootcamp.jpg'),
-  CertificationItem(name: 'Flutter & Dart - The Complete Guide [2020 Edition]', institution: "Udemy", credentials: "ude.my/UC-5080ba41-8768-4c6e-a9fd-8ba81ff90684/", dateOfIssue: "Oct 3, 2022", pdfPath: 'flutter_and_dart_the_complete_guide.jpg'),
+  CertificationItem(name: 'The Fundamentals of Digital Marketing', institution: "Google Digital Unlocked", credentials: "686 T2K 4TZ", dateOfIssue: "Jul 26, 2020", pdfPath: 'images/digitalunlocked_certificate_page-0001.jpg',),
+  CertificationItem(name: 'The Web Developer Bootcamp', institution: "Udemy", credentials: "ude.my/UC-decbd38e-b258-41f9-b656-628c3290a8ae/", dateOfIssue: "Sep 20, 2020", pdfPath: 'images/the_web_developer_bootcamp.jpg'),
+  CertificationItem(name: 'Python Fundamentals', institution: "Microsoft Technology Associate", credentials: "CT0001653", dateOfIssue: "Jun 06, 2021", pdfPath: 'images/mta_python_fundamentals.png'),
+  CertificationItem(name: 'The Complete 2021 Flutter Development Bootcamp with Dart', institution: "Udemy", credentials: "ude.my/UC-09c44ec9-6b6f-4ab5-a4dd-97bcd014fb6b/", dateOfIssue: "Aug 12, 2022", pdfPath: 'images/the_complete_2021_development_bootcamp.jpg'),
+  CertificationItem(name: 'Flutter & Dart - The Complete Guide [2020 Edition]', institution: "Udemy", credentials: "ude.my/UC-5080ba41-8768-4c6e-a9fd-8ba81ff90684/", dateOfIssue: "Oct 3, 2022", pdfPath: 'images/flutter_and_dart_the_complete_guide.jpg'),
 ];
 

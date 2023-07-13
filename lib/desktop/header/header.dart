@@ -29,7 +29,7 @@ class Header extends StatelessWidget {
                 const Expanded(
                   child: HeaderBody(isMobile: false),
                 ),
-                Image.asset("/imageedit_2_6764513897.png", height:isSmall? imageWidth:  500,)
+                Image.asset("images/imageedit_2_6764513897.png", height:isSmall? imageWidth:  500,)
               ],
             ),
           ),

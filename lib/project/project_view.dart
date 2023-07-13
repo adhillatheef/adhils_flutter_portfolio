@@ -201,7 +201,7 @@ class ProjectItem {
 
 final kProjectItems = [
   const ProjectItem(
-      image: "/flutterAmazonClone.png",
+      image: "images/flutterAmazonClone.png",
       title: "Flutter Amazon Clone",
       description: [
         "Developed a fully functional Amazon Clone from scratch, using Flutter for the front end and Node.js, Express, and MongoDB for the backend infrastructure.",
@@ -220,7 +220,7 @@ final kProjectItems = [
         "Provider"
       ]),
   const ProjectItem(
-      image: "/toDoIstHive.png",
+      image: "images/toDoIstHive.png",
       title: "ToDoIst",
       description: [
         "ToDoIst: A Flutter-based app for effortless task organization and to-do list management.",
@@ -234,7 +234,7 @@ final kProjectItems = [
         "Reminder",
       ]),
   const ProjectItem(
-      image: "/TrackMyFinance.png",
+      image: "images/TrackMyFinance.png",
       title: "TrackMyFinance",
       description: [
         "TrackMyFinance is a user-friendly mobile application built using Flutter, designed to seamlessly track daily income and expenses.",

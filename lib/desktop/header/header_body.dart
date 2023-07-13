@@ -13,21 +13,6 @@ class HeaderBody extends StatelessWidget {
   const HeaderBody({
     super.key, required this.isMobile,
   });
-  // void sendEmail() async {
-  //   final Uri emailUri = Uri(
-  //     scheme: 'mailto',
-  //     path: 'adhillatheeflas@gmail.com',
-  //     queryParameters: {'subject': 'Hello', 'body': 'Greetings!'},
-  //   );
-  //
-  //   final String emailUrl = emailUri.toString();
-  //
-  //   if (await canLaunch(emailUrl)) {
-  //     await launch(emailUrl);
-  //   } else {
-  //     throw 'Could not launch $emailUrl';
-  //   }
-  // }
   launchMailto() async {
     final mailtoLink = Mailto(
       to: ['adhillatheeflas@gmail.com'],

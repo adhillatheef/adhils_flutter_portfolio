@@ -18,7 +18,7 @@ class HeaderMobileView extends StatelessWidget {
         padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 40),
         child: Column(
           children: [
-            Expanded(child: Image.asset("/imageedit_2_6764513897.png",)),
+            Expanded(child: Image.asset("images/imageedit_2_6764513897.png",)),
             const HeaderBody(isMobile: true),
           ],
         ),
